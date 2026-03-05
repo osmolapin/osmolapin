@@ -4,7 +4,7 @@
 💻 Interested in programming and electronics
 📻 Amateur radio enthusiast
 
-## 🛠 Technologies
+## Technologies
 
 Python • JavaScript • React • PostgreSQL • Firebase
 
