@@ -1,4 +1,4 @@
-# Hi, I'm Osmo 👋
+# Hi, I'm Osmo
 
 🎓 Informatics and Artificial Intelligence student at TalTech
 💻 Interested in programming and electronics
@@ -8,7 +8,7 @@
 
 Python • JavaScript • React • PostgreSQL • Firebase
 
-## 🚀 Projects
+## Projects
 
 **EineMeister** – store produce prices, recipes and a web scraper
 https://github.com/osmolapin/EineMeister
@@ -19,7 +19,7 @@ https://joosepprolennu.ee/
 **ElmarBot** – Discord bot that plays Estonian radio stations
 https://github.com/osmolapin/elmarbot
 
-## 🧪 Early projects (middle school – haunted code 😂)
+## Early projects (middle school – haunted code 😂)
 
 Minigolf game
 https://github.com/4nder123/Minigolf
@@ -30,11 +30,11 @@ https://github.com/osmolapin/Praktiline-too
 Waste sorting educational game
 https://github.com/osmolapin/loovtoo
 
-## 📚 Currently learning
+## Currently learning
 
 Java • Game development
 
-## 📫 Contact
+## Contact
 
 Email: [osmo.lapin@gmail.com](mailto:osmo.lapin@gmail.com)
 Discord: osmoooo
