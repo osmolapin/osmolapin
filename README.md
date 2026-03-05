@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Osmo
 
-<!--
-**osmolapin/osmolapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics and Artificial Intelligence student at TalTech  
+💻 Interested in programming
+🐧 Linux (Fedora) user  
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- JavaScript
+- React
+- PostgreSQL
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Website built for an aritist
+- Neutralization reaction learning tool
+- Waste sorting educational game
+
+## Currently learning
+- Game development
+
+## Contact
+📧 osmo.lapin@gmail.com
+Discord osmooo
+Linkedin https://www.linkedin.com/in/osmolapin/
