@@ -21,6 +21,9 @@ https://github.com/osmolapin/elmarbot
 
 ## 🧪 Early projects (middle school – haunted code 😂)
 
+Minigolf game
+https://github.com/4nder123/Minigolf
+
 Neutralization reaction learning tool
 https://github.com/osmolapin/Praktiline-too
 
