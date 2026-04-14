@@ -1,8 +1,8 @@
 # Hi, I'm Osmo
 
-🎓 Informatics and Artificial Intelligence student at TalTech
-💻 Interested in programming and electronics
-📻 Amateur radio enthusiast
+ - Informatics and Artificial Intelligence student at TalTech
+ - Interested in programming and electronics
+ - Amateur radio enthusiast
 
 ## Technologies
 
@@ -19,7 +19,7 @@ https://joosepprolennu.ee/
 **ElmarBot** – Discord bot that plays Estonian radio stations
 https://github.com/osmolapin/elmarbot
 
-## Early projects (middle school – haunted code 😂)
+## Early projects (CAUTION: middle school – very haunted code)
 
 Minigolf game
 https://github.com/4nder123/Minigolf
