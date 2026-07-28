@@ -36,6 +36,4 @@ Java • Game development
 
 ## Contact
 
-Email: [osmo.lapin@gmail.com](mailto:osmo.lapin@gmail.com)
-Discord: osmoooo
 LinkedIn: https://www.linkedin.com/in/osmolapin/
